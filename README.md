@@ -6,7 +6,7 @@ Written in Pascal and x86 assembler. For more games check out [ninetysix](https:
 Free to play. This repo holds the release builds only: every version is on the
 [Releases](https://github.com/maitchison/airtime-releases/releases) page, with its changes and SHA-256 checksums.
 
-I'll probably release the source-code once the AI copying dies down a little bit.
+I'll likely release the source-code once the AI copying dies down a little bit.
 
 - **Play in your browser:** https://ninetysix.io/play/airtime/
 - **About the game:** https://ninetysix.io/games/airtime/
