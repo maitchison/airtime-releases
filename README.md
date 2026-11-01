@@ -8,9 +8,9 @@ Free to play. This repo holds the release builds only: every version is on the
 
 I'll likely release the source-code once the AI copying dies down a little bit.
 
-**Play in your browser:** https://ninetysix.io/play/airtime/
-**About the game:** https://ninetysix.io/games/airtime/
-**Latest DOS build:** https://github.com/maitchison/airtime-releases/releases/latest/download/airtime_dos.zip
+* **Play in your browser:** https://ninetysix.io/play/airtime/
+* **About the game:** https://ninetysix.io/games/airtime/
+* **Latest DOS build:** [airtime_dos.zip](https://github.com/maitchison/airtime-releases/releases/latest/download/airtime_dos.zip)
 
 ## Downloads in each release
 
