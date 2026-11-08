@@ -14,8 +14,14 @@ I'll likely release the source-code once the AI copying dies down a little bit.
 
 ## Downloads in each release
 
+<!-- downloads: written by ghrelease.py -->
+Files in the latest release, 0.9.14:
+
 | File | For |
 |---|---|
 | `airtime_dos.zip` | DOS: Pentium MMX 166 or faster, 64 MB RAM, PCI VESA video card, Sound Blaster 16/AWE (or `--nosound`). Also runs in DOSBox-X. |
-| `airtime_dos_sd.zip` | DOS without the 640x480 art, a smaller download |
 | `airtime_win64.zip` | Windows 64-bit: the DOS game with DOSBox-X bundled |
+| `airtime_linux.tar.gz` | Linux x86-64: the DOS game with DOSBox-X bundled |
+| `airtime_mac.zip` | macOS (Apple silicon): the DOS game with DOSBox-X bundled |
+<!-- /downloads -->
+
