@@ -15,7 +15,7 @@ I'll likely release the source-code once the AI copying dies down a little bit.
 ## Downloads in each release
 
 <!-- downloads: written by ghrelease.py -->
-Files in the latest release, 0.9.14:
+Files in the latest release, 0.9.15:
 
 | File | For |
 |---|---|
@@ -23,5 +23,7 @@ Files in the latest release, 0.9.14:
 | `airtime_win64.zip` | Windows 64-bit: the DOS game with DOSBox-X bundled |
 | `airtime_linux.tar.gz` | Linux x86-64: the DOS game with DOSBox-X bundled |
 | `airtime_mac.zip` | macOS (Apple silicon): the DOS game with DOSBox-X bundled |
+| `dosbox-x-2026.10.01-fury1.tar.gz` | The source of the bundled DOSBox-X (GPL v2), which each package's SOURCE.txt points at |
+| `dosbox-x-v2026.10.01.tar.gz` | The source of the bundled DOSBox-X (GPL v2), which each package's SOURCE.txt points at |
 <!-- /downloads -->
 
