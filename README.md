@@ -15,7 +15,7 @@ I'll likely release the source-code once the AI copying dies down a little bit.
 ## Downloads in each release
 
 <!-- downloads: written by ghrelease.py -->
-Files in the latest release, 0.9.16:
+Files in the latest release, 0.10.0:
 
 | File | For |
 |---|---|
